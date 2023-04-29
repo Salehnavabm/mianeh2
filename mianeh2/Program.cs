@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace App
+namespace mianeh2
 {
     class Project
     {
